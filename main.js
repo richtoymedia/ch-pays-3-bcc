@@ -1,0 +1,1 @@
+// Empty main.js to avoid Vite errors
